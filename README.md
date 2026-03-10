@@ -37,7 +37,7 @@ Meu objetivo é conquistar um estágio onde eu possa crescer como desenvolvedor,
 ## 🌟 Projetos em destaque
 - [Sistema de Cadastro em Java](https://github.com/BrenoIkez/sistema-cadastro) – Aplicação CRUD simples para gerenciamento de usuários.  
 - [Jogo da Velha em Python](https://github.com/BrenoIkez/jogo-da-velha) – Jogo clássico desenvolvido em Python com interface de terminal.  
-- [Site Pessoal](https://github.com/BrenoIkez/site-pessoal) – Portfólio pessoal utilizando HTML, CSS e JavaScript.  
+- [Site Pessoal](https://BrenoIkez.github.io/meu-site/) – Portfólio pessoal utilizando HTML, CSS e JavaScript.  
 
 ---
 
