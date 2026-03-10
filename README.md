@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome] 👋
 
-<!--
-**BrenoIkez/BrenoIkez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Interesse em Desenvolvimento de Software e IA  
+🌱 Atualmente aprendendo: Python, Java, C e Git/GitHub  
+📫 Como me encontrar: [LinkedIn](www.linkedin.com/in/breno-barufaldi-ikeziri-537a503b3) | [Email](BrenoBarufaldi@Hotmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub stats](https://github.com/BrenoIkez)
+
+![Top Langs](https://github.com/BrenoIkez)
+
+---
+
+## 🌟 Projetos em destaque
+- [Sistema de Cadastro em Java](https://github.com/BrenoIkez/sistema-cadastro)  
+- [Jogo da Velha em Python](https://github.com/BrenoIkez/jogo-da-velha)  
+- [Site Pessoal em HTML/CSS](https://github.com/BrenoIkez/site-pessoal)  
+
+---
+
+✨ Sempre buscando aprender e contribuir com projetos que façam diferença!
+****
