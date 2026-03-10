@@ -1,13 +1,24 @@
-# Olá, eu sou Breno 👋
+# Hi there, I'm Breno Ikez 👋
 
-🎓 Estudante de Ciência da Computação  
-💻 Interesse em Desenvolvimento de Software e IA  
-🌱 Atualmente aprendendo: Python, Java, C e Git/GitHub  
-📫 Como me encontrar: [LinkedIn](www.linkedin.com/in/breno-barufaldi-ikeziri-537a503b3) | [Email](BrenoBarufaldi@Hotmail.com)
+🎓 Computer Science undergraduate passionate about technology, problem-solving, and continuous learning.  
+💻 Interested in Software Development, Artificial Intelligence, and Cybersecurity.  
+🌱 Currently improving my skills in Python, Java, C, and Git/GitHub.  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/breno-barufaldi-ikeziri-537a503b3)  
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 About Me
+I am a motivated Computer Science student eager to apply my academic knowledge in real-world projects.  
+I enjoy working on software solutions, exploring algorithms, and building applications that solve practical problems.  
+My goal is to secure an internship where I can grow as a developer, contribute to impactful projects, and gain valuable industry experience.
+
+---
+
+## 🛠️ Skills & Tools
+- **Programming Languages:** Python, Java, C, JavaScript  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+- **Concepts:** Data Structures, Object-Oriented Programming, Agile Development  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -18,19 +29,31 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub stats](https://github.com/BrenoIkez)
-
-![Top Langs](https://github.com/BrenoIkez)
-
----
-
-## 🌟 Projetos em destaque
-- [Sistema de Cadastro em Java](https://github.com/BrenoIkez/sistema-cadastro)  
-- [Jogo da Velha em Python](https://github.com/BrenoIkez/jogo-da-velha)  
-- [Site Pessoal em HTML/CSS](https://github.com/BrenoIkez/site-pessoal)  
+## 📊 GitHub Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoIkez&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoIkez&layout=compact&theme=radical)
 
 ---
 
-✨ Sempre buscando aprender e contribuir com projetos que façam diferença!
-****
+## 🌟 Featured Projects
+- [Java Registration System](https://github.com/BrenoIkez/sistema-cadastro) – A simple CRUD application for managing users.  
+- [Python Tic-Tac-Toe](https://github.com/BrenoIkez/jogo-da-velha) – Classic game built with Python and terminal interface.  
+- [Personal Website](https://github.com/BrenoIkez/site-pessoal) – Portfolio website using HTML, CSS, and JavaScript.  
+
+---
+
+## 🎯 Career Objective
+I am seeking an internship opportunity in Computer Science where I can:  
+- Apply my technical skills in real-world projects.  
+- Collaborate with experienced professionals.  
+- Continue learning and developing as a software engineer.  
+
+✨ Always curious, always learning, and ready to contribute!
+
+---
+
+## 🤝 Let's Connect
+- 📧 Email: BrenoIkeziri@outlook.com  
+- 🌐 Website: !!!!  
+- 💬 Discord: brenoikez  
+- 🔗 LinkedIn: [Breno Barufaldi Ikeziri](https://www.linkedin.com/in/breno-barufaldi-ikeziri-537a503b3)  
