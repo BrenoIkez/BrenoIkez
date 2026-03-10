@@ -1,24 +1,23 @@
-# Hi there, I'm Breno Ikez 👋
+# Olá, eu sou Breno Ikeziri 👋
 
-🎓 Computer Science undergraduate passionate about technology, problem-solving, and continuous learning.  
-💻 Interested in Software Development, Artificial Intelligence, and Cybersecurity.  
-🌱 Currently improving my skills in Python, Java, C, and Git/GitHub.  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/breno-barufaldi-ikeziri-537a503b3)  
-
----
-
-## 🚀 About Me
-I am a motivated Computer Science student eager to apply my academic knowledge in real-world projects.  
-I enjoy working on software solutions, exploring algorithms, and building applications that solve practical problems.  
-My goal is to secure an internship where I can grow as a developer, contribute to impactful projects, and gain valuable industry experience.
+🎓 Estudante de Ciência da Computação apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.  
+💻 Interesse em Desenvolvimento de Software, Inteligência Artificial e Segurança da Informação.  
+🌱 Atualmente aprimorando minhas habilidades em Python, Java, C e Git/GitHub.  
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/breno-barufaldi-ikeziri-537a503b3)  
 
 ---
 
-## 🛠️ Skills & Tools
-- **Programming Languages:** Python, Java, C, JavaScript  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools & Platforms:** Git, GitHub, VS Code  
-- **Concepts:** Data Structures, Object-Oriented Programming, Agile Development  
+## 🚀 Sobre mim
+Sou um estudante motivado de Ciência da Computação, buscando aplicar meus conhecimentos acadêmicos em projetos reais.  
+Gosto de desenvolver soluções de software, explorar algoritmos e criar aplicações que resolvem problemas práticos.  
+Meu objetivo é conquistar um estágio onde eu possa crescer como desenvolvedor, contribuir em projetos relevantes e adquirir experiência profissional.
+
+---
+
+## 🛠️ Habilidades e Ferramentas
+- **Linguagens de Programação:** Python, Java, C, JavaScript  
+- **Ferramentas & Plataformas:** Git, GitHub, VS Code  
+- **Conceitos:** Estruturas de Dados, Programação Orientada a Objetos, Desenvolvimento Ágil  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -29,31 +28,31 @@ My goal is to secure an internship where I can grow as a developer, contribute t
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Estatísticas do GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoIkez&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoIkez&layout=compact&theme=radical)
 
 ---
 
-## 🌟 Featured Projects
-- [Java Registration System](https://github.com/BrenoIkez/sistema-cadastro) – A simple CRUD application for managing users.  
-- [Python Tic-Tac-Toe](https://github.com/BrenoIkez/jogo-da-velha) – Classic game built with Python and terminal interface.  
-- [Personal Website](https://github.com/BrenoIkez/site-pessoal) – Portfolio website using HTML, CSS, and JavaScript.  
+## 🌟 Projetos em destaque
+- [Sistema de Cadastro em Java](https://github.com/BrenoIkez/sistema-cadastro) – Aplicação CRUD simples para gerenciamento de usuários.  
+- [Jogo da Velha em Python](https://github.com/BrenoIkez/jogo-da-velha) – Jogo clássico desenvolvido em Python com interface de terminal.  
+- [Site Pessoal](https://github.com/BrenoIkez/site-pessoal) – Portfólio pessoal utilizando HTML, CSS e JavaScript.  
 
 ---
 
-## 🎯 Career Objective
-I am seeking an internship opportunity in Computer Science where I can:  
-- Apply my technical skills in real-world projects.  
-- Collaborate with experienced professionals.  
-- Continue learning and developing as a software engineer.  
+## 🎯 Objetivo Profissional
+Busco uma oportunidade de estágio em Ciência da Computação onde eu possa:  
+- Aplicar minhas habilidades técnicas em projetos reais.  
+- Colaborar com profissionais experientes.  
+- Continuar aprendendo e me desenvolvendo como engenheiro de software.  
 
-✨ Always curious, always learning, and ready to contribute!
+✨ Sempre curioso, sempre aprendendo e pronto para contribuir!
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Vamos nos conectar
 - 📧 Email: BrenoIkeziri@outlook.com  
-- 🌐 Website: !!!!  
+- 🌐 Website: !!!!!  
 - 💬 Discord: brenoikez  
 - 🔗 LinkedIn: [Breno Barufaldi Ikeziri](https://www.linkedin.com/in/breno-barufaldi-ikeziri-537a503b3)  
