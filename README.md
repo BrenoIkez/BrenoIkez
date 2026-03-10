@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Breno 👋
 
 🎓 Estudante de Ciência da Computação  
 💻 Interesse em Desenvolvimento de Software e IA  
